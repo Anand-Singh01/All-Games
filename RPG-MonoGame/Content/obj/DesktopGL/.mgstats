@@ -1,9 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/background.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",70634,24920149,0.9669552
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/ball.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.0034025
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/Player/player.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/Player/player.xnb","TextureProcessor","Texture2DContent",1072,36949,0.0021514
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/Player/walkDown.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/Player/walkDown.xnb","TextureProcessor","Texture2DContent",5078,147541,0.0049959
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/Player/walkLeft.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/Player/walkLeft.xnb","TextureProcessor","Texture2DContent",5640,147541,0.0045823
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/Player/walkRight.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/Player/walkRight.xnb","TextureProcessor","Texture2DContent",5308,147541,0.0041265
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/Player/walkUp.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/Player/walkUp.xnb","TextureProcessor","Texture2DContent",4574,147541,0.0039701
-"C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/skull.png","C:/Users/asing/OneDrive/Desktop/RPG-game/RPG-MonoGame/Content/bin/DesktopGL/skull.xnb","TextureProcessor","Texture2DContent",9601,506965,0.0118714
