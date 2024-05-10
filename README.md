@@ -1,5 +1,8 @@
 # GameProject
 
+![1](https://github.com/Anand-singh97/All-Games/assets/132922327/5004b992-93f1-4f72-964a-ee56407d3984)
+![2](https://github.com/Anand-singh97/All-Games/assets/132922327/e123dec3-c333-4031-aeef-a2626b64560b)
+
 This game app is developed using MonoGame and C#, implementing an engaging gameplay experience where the hero shoots powerballs to destroy enemies, earning 10 points for each successful kill. The game employs Object-Oriented Programming (OOP) principles to enhance its structure and functionality.
 
 # Gameplay Features:
@@ -14,11 +17,13 @@ Installation and Running the Game:
 Download the Setup File: Obtain the setup file for the game from the provided location.
 Run the Setup File: Double-click the setup file to initiate the installation process.
 Follow On-Screen Instructions: Follow the prompts provided by the installer to complete the installation of the game on your system.
+
 # Controls:
 Movement: Use the arrow keys (up, down, left, right) to move the hero character across the game environment.
 Shoot Powerballs: Press the space bar to shoot powerballs from the hero character to eliminate enemies.
+
 # How to Play:
-Launch the Game: After installation, find the game executable file in the installation directory.
+Launch the Game: Open the SCASFinalProject_Installer folder and execute the setup file.
 Controls: Use the specified controls (arrow keys for movement, space bar to shoot) to maneuver the hero character and shoot powerballs.
 Gameplay Objective: Eliminate enemies by shooting powerballs at them to earn points. Each enemy kill awards 10 points.
 Challenge Yourself: Survive as long as possible against continuously spawning enemies to achieve a high score.
