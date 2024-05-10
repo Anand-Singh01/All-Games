@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/../../../../../FireBall.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/../../../../../RPG/RPG/RpgGame/RpgGame/Content/skull.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/fonts/HilightFont.spritefont</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/fonts/RegularFont.spritefont</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/HelpImage/Downarrow.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/HelpImage/leftarrow.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/HelpImage/Rightarrow.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/HelpImage/Spacebar.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/HelpImage/Uparrow.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/gameArenas/background.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/hero/player.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/hero/walkDown.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/hero/walkLeft.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/hero/walkRight.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/hero/walkUp.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/menuImage.jpg</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/images/wood.png</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/sounds/CharacterDead.wav</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/sounds/GameStart.wav</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/sounds/nature.ogg</File>
+    <File>C:/Users/guest 97/Desktop/ASSCFinal/DemonSlayerGame/DemonSlayer/DemonSlayer/Content/sounds/Shoot.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>images/hero/FireBall.png</File>
+    <File>images/hero/skull.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
